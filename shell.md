@@ -1,0 +1,1 @@
+`find /runtime/log/202004 -mmin +10 -type f  -exec rm -rf {} \`  删除10小时之前的文件;​​​​
